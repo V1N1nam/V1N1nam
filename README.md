@@ -8,8 +8,8 @@ Estudante de Engenharia de Software, entendimento sólido em HTML e CSS, interme
 - 💡 Atualmente desenvolvendo um **Sistema de Gestão de Skills** com Django.
 
 ## Projetos em destaque
-- [💻 Portfólio](https://github.com/V1N1nam/portfolio) - Meu portfólio pessoal.
-- [⏱️ Cronometro com React](https://github.com/seuusuario/arduino-pyfirmata) - Um cronometro feito com React.
+- [💻 Portfólio](https://portfolio-ashen-chi-54.vercel.app) - Meu portfólio pessoal.
+- [⏱️ Cronometro com React](https://cronometro-ten-xi.vercel.app) - Um cronometro feito com React.
 
 ## Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
