@@ -1,4 +1,4 @@
-# Olá, sou o Vinicius Andrade Michki Hubner! 👋
+![Meu Banner](https://github.com/V1N1nam/V1N1nam/blob/main/banner%20git.png)
 Estudante de Engenharia de Software, entendimento sólido em HTML e CSS, intermediario em JavaScript e conhecimento básico em Python, Django, React, SQL e C. Apaixonado por tecnologia, sempre buscando melhorar e aprender novas skills!
 
 ## Sobre mim
