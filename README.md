@@ -6,7 +6,6 @@ Estudante de Engenharia de Software (conclusão em dez/2026) com foco em automa�
 - 🎓 Engenharia de Software na **UniSenai**, 8º período
 - 💼 Control Desk Jr na **Solucz**, onde desenvolvo pipelines automatizados de relatórios em Python e participei da construção de uma plataforma de dados (Python, SQL, Docker) usada pela gestão
 - 🤝 Projetos acadêmicos em parceria com Brose, Eletrofrio, Mão Colorida e Volvo
-- 🔭 Atualmente estudando **C# / .NET** e automação de processos
 
 ## Projetos em destaque
 - [🗳️ Mapa das Urnas](https://mapadasurnas.com.br) - Jornalismo de dados sobre as eleições 2026 com dados do TSE, com acompanhamento ao vivo da apuração do 2º turno. Cloudflare Workers + R2.
